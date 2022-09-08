@@ -2,7 +2,12 @@
 
 EnviroEats is a progressive machine learning web application that aims to solve two vast healthcare and environmental problems. 
 
-## Inspiration
+## 3 Time International Hackathon Winner
+* App Dev League Appathon 3rd Overall (out of 300+) Wolfram Award winner - ($1005 worth of prizes) - Aug 2022
+* VividHacks 5th place overall (out of 150+) Digital Ocean Cloud Credit + Leading Learners EdTech Bundle ($300 worth of prizes) - Aug 2022
+* NeoHacks 2nd place overall (out of 93+) - Aug 2022
+
+## Inspiration for this project
 
 Poor dietary styles and lack of nutrition knowledge of the American public has led to high rates of obesity, food related diseases such as diabetes and cardiovascular disease. In addition, to causing health problems, these poor dietary styles have also posed a massive threat to the environment through greenhouse emissions and heavy resource (land and water) usage.
 
